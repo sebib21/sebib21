@@ -6,7 +6,8 @@
 
 # 📝 My Projects:
   - Food Ordering & Delivery System - C#, ASP.NET MVC, WinForms, jQuery, MySQL (not on GitHub, privacy)
-  - [Calorie Counter Application](https://github.com/sebib21/calorie-counter) - Java, Spring Boot, Vue, Vite (in progress)
+  - [Calorie Counter](https://github.com/sebib21/calorie-counter) - Java, Spring Boot, Vue, Vite (in progress)
+  - [ComicBook Reader](https://github.com/sebib21/ComicBookReader) - C#, .NET 8, .NET MAUI (in progress)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebib21&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
